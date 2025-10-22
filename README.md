@@ -61,6 +61,7 @@ endmodule
 <img width="704" height="291" alt="image" src="https://github.com/user-attachments/assets/f075c430-a98d-443f-b15b-6a02226be4fb" />
 
 **TIMING DIGRAMS FOR 4 Bit Ripple Counter**
-<img width="825" height="454" alt="image" src="https://github.com/user-attachments/assets/05420db8-1e88-45e6-87c7-9e24c1e040f7" />
+<img width="858" height="233" alt="image" src="https://github.com/user-attachments/assets/17aa0d8b-3932-4550-a9bb-2e16ff24c7b4" />
+
 
 **RESULTS**
